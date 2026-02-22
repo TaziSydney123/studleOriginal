@@ -1,6 +1,6 @@
 # Studle
 
-A new way to study. Made by students.
+## A new way to study. Made by students.
 
 Studle is a web-based flashcard and study-set application built with React. Sign in with Google, create hierarchical study sets, quiz yourself in multiple choice or written mode, share sets with others, and collect cosmetic stickers.
 
